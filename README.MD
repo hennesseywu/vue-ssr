@@ -1,11 +1,16 @@
-##VUESSR
-##vue+express
+# VUESSR
 
-#install package
+# vue+express
+
+##install package
+```
 npm i
+```
 
-#run
+##run
+```
 node app.js
+```
 
-#127.0.0.1:3000
+##127.0.0.1:3000
 
