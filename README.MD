@@ -1,16 +1,18 @@
-# VUESSR
+# 使用vue做同构渲染简单demo
 
-# vue+express
+## vue+express
 
-##install package
+#install package
 ```
 npm i
 ```
 
-##run
+#run
 ```
 node app.js
 ```
 
-##127.0.0.1:3000
-
+#browser open
+```
+127.0.0.1:3000
+```
